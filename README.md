@@ -1,10 +1,13 @@
 # Casimir-Constrained-Optimization
 
-Mathematica 9 source, numerical data, and figures for a constrained optimization of outward Casimir–Lifshitz pressure in a planar **PEC–vacuum–biased GaAs–vacuum–PEC** cavity. The objective is to maximize the smaller outward pressure on the two conductors under gap and drive uncertainty. In the optically thick slab model, identical boundaries admit a symmetric optimizer, reducing the robust search to one nominal gap.
+Machine-readable data and analysis files accompanying the study [arXiv].
 
-## Main result
+This repository provides all the numerical data underlying Figs.2-7 and the reported validation
+tables, together with the Wolfram Mathematica source code used to generate them.
 
-At **300 K**, the optimized nominal gaps are **1.35122 μm** on both sides, the nominal drive parameter is **η = 0.945**, and the adopted GaAs slab thickness is **13.5 μm**. With independent gap deviations of **±10 nm** and a drive deviation of **±0.005**, the worst-case outward pressure is **2.25684 mPa**. This exceeds the corresponding far-field pressure by **0.18116 mPa**. A separate full finite-slab scattering calculation differs from the reduced model by about **0.00160%** at the active worst-case point.
+## Overview
+
+This work shows how to design a light-driven microscopic cavity that maintains a repulsive Casimir force despite realistic fabrication and operating uncertainties.
 
 These are numerical results for the implemented model, material parameters, and uncertainty bounds. See [headline results](data_mathematica9_final/headline_results.csv) and [finite-slab validation](data_mathematica9_final/finite_slab_validation.csv).
 
