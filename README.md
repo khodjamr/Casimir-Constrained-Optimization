@@ -1,5 +1,4 @@
 # Casimir-Constrained-Optimization
-# Robust optimization of nonequilibrium Casimir repulsion
 
 Mathematica 9 source, numerical data, and figures for a constrained optimization of outward Casimir–Lifshitz pressure in a planar **PEC–vacuum–biased GaAs–vacuum–PEC** cavity. The objective is to maximize the smaller outward pressure on the two conductors under gap and drive uncertainty. In the optically thick slab model, identical boundaries admit a symmetric optimizer, reducing the robust search to one nominal gap.
 
