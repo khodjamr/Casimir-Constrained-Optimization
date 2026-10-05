@@ -1,6 +1,6 @@
 # Casimir-Constrained-Optimization
 
-Machine-readable data and analysis files accompanying the study [arXiv].
+Machine-readable data and analysis files accompanying the study [arXiv:2610.02471](http://arxiv.org/abs/2610.02471).
 
 This repository provides all the numerical data underlying Figs.2-7 and the reported validation
 tables, together with the Wolfram Mathematica source code used to generate them.
