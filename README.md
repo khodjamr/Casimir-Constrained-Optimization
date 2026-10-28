@@ -2,7 +2,7 @@
 
 Machine-readable data and analysis files accompanying the study [arXiv:2610.02471](http://arxiv.org/abs/2610.02471).
 
-This repository provides all the numerical data underlying the main and supplemental figures, as well as the associated numerical study, together with the Wolfram Mathematica source code used to generate them.
+This repository provides all the numerical data underlying the main and supplemental figures, as well as the associated numerical study, together with the Wolfram Mathematica 9 source code used to generate them.
 
 ## Overview
 
